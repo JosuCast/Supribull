@@ -1,0 +1,16 @@
+.father-container{
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.main-content p{
+    text-align: justify;
+}
+img{
+    margin-bottom: 20px;
+    float:right
+}
+.contact form{
+    display: flex;
+    flex-direction: column;
+}
